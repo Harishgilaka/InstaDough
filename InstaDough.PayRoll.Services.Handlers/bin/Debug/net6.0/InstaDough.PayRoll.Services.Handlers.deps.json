@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InstaDough.PayRoll.Services.Handlers/1.0.0": {
+        "dependencies": {
+          "InstaDough.Core": "1.0.0"
+        },
+        "runtime": {
+          "InstaDough.PayRoll.Services.Handlers.dll": {}
+        }
+      },
+      "InstaDough.Core/1.0.0": {
+        "runtime": {
+          "InstaDough.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InstaDough.PayRoll.Services.Handlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InstaDough.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

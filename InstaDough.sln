@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.Employee.Web.API", "InstaDough.Employee.Web.API\InstaDough.Employee.Web.API.csproj", "{1C1D6640-3DF6-4471-B691-16148242214E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.Employee.Handlers", "InstaDough.Employee.Handlers\InstaDough.Employee.Handlers.csproj", "{D05E9B16-3C8F-4FC1-8B7D-DDA8D683CDC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.Repository", "InstaDough.Repository\InstaDough.Repository.csproj", "{FA554E50-BA88-4B82-8CA6-75828907D18F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.Common", "InstaDough.Common\InstaDough.Common.csproj", "{4FFA5802-717C-4201-903D-AF4CDEEED0C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.Core", "InstaDough.Core\InstaDough.Core.csproj", "{EB6BA369-0DFA-438B-B4A5-C6AD82470BC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.PayRoll.Services", "InstaDough.PayRoll.Services\InstaDough.PayRoll.Services.csproj", "{B9B6402C-ED77-4824-A62E-F0B74E9E67D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.PayRoll.Services.Handlers", "InstaDough.PayRoll.Services.Handlers\InstaDough.PayRoll.Services.Handlers.csproj", "{D91A0A26-B998-4FE0-B0B9-456CF0F84866}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.CardProvider.Service", "InstaDough.CardProvider.Service\InstaDough.CardProvider.Service.csproj", "{13EA1B53-52D7-4D98-B986-E1888AF32EF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaDough.CardProvider.Services.Handlers", "InstaDough.CardProvider.Services.Handlers\InstaDough.CardProvider.Services.Handlers.csproj", "{0EC2F70B-A88D-4BBF-AEC0-695C9EE38733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaDough.ServiceProvider", "InstaDough.ServiceProvider\InstaDough.ServiceProvider.csproj", "{268C540A-ABA0-4BF3-8060-F17182955092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1D6640-3DF6-4471-B691-16148242214E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1D6640-3DF6-4471-B691-16148242214E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1D6640-3DF6-4471-B691-16148242214E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1D6640-3DF6-4471-B691-16148242214E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05E9B16-3C8F-4FC1-8B7D-DDA8D683CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05E9B16-3C8F-4FC1-8B7D-DDA8D683CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05E9B16-3C8F-4FC1-8B7D-DDA8D683CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05E9B16-3C8F-4FC1-8B7D-DDA8D683CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA554E50-BA88-4B82-8CA6-75828907D18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA554E50-BA88-4B82-8CA6-75828907D18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA554E50-BA88-4B82-8CA6-75828907D18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA554E50-BA88-4B82-8CA6-75828907D18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFA5802-717C-4201-903D-AF4CDEEED0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFA5802-717C-4201-903D-AF4CDEEED0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFA5802-717C-4201-903D-AF4CDEEED0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFA5802-717C-4201-903D-AF4CDEEED0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6BA369-0DFA-438B-B4A5-C6AD82470BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6BA369-0DFA-438B-B4A5-C6AD82470BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6BA369-0DFA-438B-B4A5-C6AD82470BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6BA369-0DFA-438B-B4A5-C6AD82470BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B6402C-ED77-4824-A62E-F0B74E9E67D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B6402C-ED77-4824-A62E-F0B74E9E67D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B6402C-ED77-4824-A62E-F0B74E9E67D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B6402C-ED77-4824-A62E-F0B74E9E67D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91A0A26-B998-4FE0-B0B9-456CF0F84866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91A0A26-B998-4FE0-B0B9-456CF0F84866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91A0A26-B998-4FE0-B0B9-456CF0F84866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91A0A26-B998-4FE0-B0B9-456CF0F84866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EA1B53-52D7-4D98-B986-E1888AF32EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EA1B53-52D7-4D98-B986-E1888AF32EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EA1B53-52D7-4D98-B986-E1888AF32EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EA1B53-52D7-4D98-B986-E1888AF32EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC2F70B-A88D-4BBF-AEC0-695C9EE38733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC2F70B-A88D-4BBF-AEC0-695C9EE38733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC2F70B-A88D-4BBF-AEC0-695C9EE38733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC2F70B-A88D-4BBF-AEC0-695C9EE38733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268C540A-ABA0-4BF3-8060-F17182955092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C540A-ABA0-4BF3-8060-F17182955092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C540A-ABA0-4BF3-8060-F17182955092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C540A-ABA0-4BF3-8060-F17182955092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43075D22-B963-434A-8B6E-F7FCADA24621}
+	EndGlobalSection
+EndGlobal

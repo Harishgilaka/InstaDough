@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "InstaDough.PayRoll.Services": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

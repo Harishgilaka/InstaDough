@@ -1,0 +1,12 @@
+E:\Project\InstaDough\InstaDough.Core\bin\Debug\net6.0\InstaDough.Core.deps.json
+E:\Project\InstaDough\InstaDough.Core\bin\Debug\net6.0\InstaDough.Core.dll
+E:\Project\InstaDough\InstaDough.Core\bin\Debug\net6.0\InstaDough.Core.pdb
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.csproj.AssemblyReference.cache
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.AssemblyInfoInputs.cache
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.AssemblyInfo.cs
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.csproj.CoreCompileInputs.cache
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.dll
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\refint\InstaDough.Core.dll
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\InstaDough.Core.pdb
+E:\Project\InstaDough\InstaDough.Core\obj\Debug\net6.0\ref\InstaDough.Core.dll

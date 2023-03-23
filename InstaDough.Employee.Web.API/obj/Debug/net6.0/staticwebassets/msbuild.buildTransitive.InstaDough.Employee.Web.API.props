@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\InstaDough.Employee.Web.API.props" />
+</Project>

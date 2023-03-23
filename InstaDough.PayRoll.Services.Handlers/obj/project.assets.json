@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "InstaDough.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InstaDough.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InstaDough.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InstaDough.Core/1.0.0": {
+      "type": "project",
+      "path": "../InstaDough.Core/InstaDough.Core.csproj",
+      "msbuildProject": "../InstaDough.Core/InstaDough.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "InstaDough.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVO T480\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Project\\InstaDough\\InstaDough.PayRoll.Services.Handlers\\InstaDough.PayRoll.Services.Handlers.csproj",
+      "projectName": "InstaDough.PayRoll.Services.Handlers",
+      "projectPath": "E:\\Project\\InstaDough\\InstaDough.PayRoll.Services.Handlers\\InstaDough.PayRoll.Services.Handlers.csproj",
+      "packagesPath": "C:\\Users\\LENOVO T480\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\InstaDough\\InstaDough.PayRoll.Services.Handlers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LENOVO T480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Project\\InstaDough\\InstaDough.Core\\InstaDough.Core.csproj": {
+              "projectPath": "E:\\Project\\InstaDough\\InstaDough.Core\\InstaDough.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
